@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/Controllers/MainController.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/Program/Program.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/User/SignIn_View.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/Models/Appointment.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/User/BackgroundPanel.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/User/SignInBackground.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/User/ChangePassword_View.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/Controllers/ClinicController.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/Controllers/PractitionearController.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/Controllers/RateController.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/Controllers/UserController.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/User/Startpage_View.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/Appointment/AppointmentBookingView.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/Appointment/PatientAppointmentsView.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/Rate/RatePractitionear_View.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/DTOs/RatePractitionerDTO.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/Patient/EditProfile_view.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/Patient/PatientHomePage_View.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/Patient/LandingBackgroundPanel.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/Patient/PatientProfile_View.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/Patient/profileImage.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/Practitionear/AllPractitionearPage_View.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/Practitionear/DoctorCard.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/Practitionear/DoctorDetailsPage.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/DTOs/UpdatePatientDTO.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/Rate/RateDisplay_View.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/Rate/RateClinic_View.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/DAOs/PatientDAO.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/Controllers/PatientController.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/View/User/RegisterPage_View.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/DTOs/PatientRegistrationDTO.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/Models/Patient.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/Utiles/Helpers.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/DTOs/UpdateClinicDTO.java</file>
+            <file>file:/C:/Users/NanoChip/Desktop/JavaApplication7/src/Services/PatientService.java</file>
+        </group>
+    </open-files>
+</project-private>

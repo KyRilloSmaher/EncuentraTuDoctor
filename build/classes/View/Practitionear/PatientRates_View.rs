@@ -1,0 +1,2 @@
+EncuentraTuDoctor.View.Practitionear.PatientRates_View$1
+EncuentraTuDoctor.View.Practitionear.PatientRates_View
